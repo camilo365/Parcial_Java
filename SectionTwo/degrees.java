@@ -10,6 +10,8 @@ class degrees {
         degreesC = degrees.nextDouble();
         degreesF = (degreesC * 9/5) + 32;
         System.out.println( degreesC + " Degrees Celsius is equal to " + degreesF + " Degrees Farenheit");
+
+        degrees.close();
     }
 
 }

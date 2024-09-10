@@ -14,6 +14,8 @@ class tableMultiply {
         for(multiplier = 1; multiplier <=10; multiplier++){
             System.out.println(number + " X " + multiplier +         " = " + number * multiplier );
         }
+
+        valor1.close();
     }
 }
 

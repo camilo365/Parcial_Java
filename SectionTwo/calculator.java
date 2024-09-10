@@ -40,6 +40,8 @@ class calculator {
         }
 
         System.out.println("The Result  " + num1 + " " + operation + " " + num2 + " is: " + result);
+
+        scanner.close();
     }
 }
 

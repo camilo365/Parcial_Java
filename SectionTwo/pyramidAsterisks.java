@@ -21,5 +21,7 @@ class pyramidAsterisks {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }
