@@ -27,6 +27,8 @@ class averageNumbers {
         }
         System.out.println("the average of the numbers is: " + Average);
         System.out.println("the sum of the numbers is: " + sum);
+
+        in.close();
     }
 
 }

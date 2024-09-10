@@ -19,6 +19,8 @@ class sumUpToZero {
 
         System.out.println("The sum of all the numbers is: "+sum);
 
+        teclado.close();
+
     }
 
 }

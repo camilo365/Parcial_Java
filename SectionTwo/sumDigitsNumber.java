@@ -25,6 +25,8 @@ class sumDigitsNumber {
         }
 
         System.out.println("The sum of the digits of the number is: " + addition);
+
+        sc.close();
     }
 
 }

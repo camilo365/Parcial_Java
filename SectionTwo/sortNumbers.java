@@ -57,6 +57,9 @@ class sortNumbers {
         sortNumbers fc = new sortNumbers();
         fc.enterNumbers();
         fc.order();
+
+
+
     }
 }
 
