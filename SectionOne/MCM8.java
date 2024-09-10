@@ -1,3 +1,4 @@
+package SectionOne;
 import java.util.Scanner;
 public class MCM8 {
     public static void main(String[]args){

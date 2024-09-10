@@ -1,3 +1,4 @@
+package SectionOne;
 import java.util.Scanner;
 public class ContadorVocales4 {
         public static void main(String[]args) {

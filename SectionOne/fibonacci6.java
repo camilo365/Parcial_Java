@@ -1,3 +1,4 @@
+package SectionOne;
 import java.util.Scanner;
 
 public class fibonacci6 {
@@ -13,5 +14,6 @@ public class fibonacci6 {
             a = b;
             b = c;
         }
+        scanner.close()
     }
 }

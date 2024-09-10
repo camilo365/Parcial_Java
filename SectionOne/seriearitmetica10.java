@@ -1,3 +1,4 @@
+package SectionOne;
 import java.util.Scanner;
 public class seriearitmetica10 {
     public static void main(String[] args) {

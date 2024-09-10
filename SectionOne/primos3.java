@@ -1,4 +1,4 @@
-
+package SectionOne;
 import java.util.Scanner;
 public class primos3 {
     public static void main(String[]args){

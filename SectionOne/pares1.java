@@ -1,3 +1,4 @@
+package SectionOne;
 import java.util.Scanner;
 
 public class pares1 {
