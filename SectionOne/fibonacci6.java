@@ -14,6 +14,6 @@ public class fibonacci6 {
             a = b;
             b = c;
         }
-        scanner.close()
+        scanner.close();
     }
 }

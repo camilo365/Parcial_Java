@@ -19,5 +19,8 @@ public class MCD7 {
             }
         }
         System.out.println("Total number of common divisors: " + counter);
+
+        scanner.close();
     }
+
 }

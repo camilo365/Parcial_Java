@@ -17,5 +17,7 @@ public class MCM8 {
             maximun += maximunnumber;
         }
         System.out.println("The Least Common Multiple  of " + val1 + " and " + val2 + " is: " + maximun);
+
+        scanner.close();
     }
 }
