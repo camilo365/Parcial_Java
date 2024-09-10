@@ -1,3 +1,4 @@
+package SectionTwo;
 import java.util.Scanner;
 import java.lang.Math;
 

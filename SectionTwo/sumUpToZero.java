@@ -1,3 +1,4 @@
+package SectionTwo;
 import java.util.Scanner;
 
 class sumUpToZero {
